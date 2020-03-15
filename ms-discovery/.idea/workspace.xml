@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a188bed-f341-425f-bafb-411eef8c0b8b" name="Default Changelist" comment="" />
+    <list default="true" id="5a188bed-f341-425f-bafb-411eef8c0b8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ms-user/src/main/java/br/com/msuser/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/src/main/java/br/com/msuser/domain/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/src/main/java/br/com/msuser/kafka/producer/Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/src/main/java/br/com/msuser/kafka/producer/SenderConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/src/main/java/br/com/msuser/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/src/main/java/br/com/msuser/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-config-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-config-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-user/src/main/resources/application.yml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ms-user" />
   </component>
   <component name="RunManager">
@@ -80,21 +94,21 @@
       <screen x="0" y="28" width="1920" height="990" />
     </state>
     <state x="743" y="268" width="424" height="480" key="FileChooserDialogImpl/0.28.1920.990@0.28.1920.990" timestamp="1584286025241" />
-    <state width="1874" height="330" key="GridCell.Tab.0.bottom" timestamp="1584284650996">
+    <state width="1874" height="330" key="GridCell.Tab.0.bottom" timestamp="1584291714804">
       <screen x="0" y="28" width="1920" height="990" />
     </state>
-    <state width="1874" height="330" key="GridCell.Tab.0.bottom/0.28.1920.990@0.28.1920.990" timestamp="1584284650996" />
-    <state width="1874" height="330" key="GridCell.Tab.0.center" timestamp="1584284650995">
+    <state width="1874" height="330" key="GridCell.Tab.0.bottom/0.28.1920.990@0.28.1920.990" timestamp="1584291714804" />
+    <state width="1874" height="330" key="GridCell.Tab.0.center" timestamp="1584291714804">
       <screen x="0" y="28" width="1920" height="990" />
     </state>
-    <state width="1874" height="330" key="GridCell.Tab.0.center/0.28.1920.990@0.28.1920.990" timestamp="1584284650995" />
-    <state width="1874" height="330" key="GridCell.Tab.0.left" timestamp="1584284650994">
+    <state width="1874" height="330" key="GridCell.Tab.0.center/0.28.1920.990@0.28.1920.990" timestamp="1584291714804" />
+    <state width="1874" height="330" key="GridCell.Tab.0.left" timestamp="1584291714803">
       <screen x="0" y="28" width="1920" height="990" />
     </state>
-    <state width="1874" height="330" key="GridCell.Tab.0.left/0.28.1920.990@0.28.1920.990" timestamp="1584284650994" />
-    <state width="1874" height="330" key="GridCell.Tab.0.right" timestamp="1584284650995">
+    <state width="1874" height="330" key="GridCell.Tab.0.left/0.28.1920.990@0.28.1920.990" timestamp="1584291714803" />
+    <state width="1874" height="330" key="GridCell.Tab.0.right" timestamp="1584291714804">
       <screen x="0" y="28" width="1920" height="990" />
     </state>
-    <state width="1874" height="330" key="GridCell.Tab.0.right/0.28.1920.990@0.28.1920.990" timestamp="1584284650995" />
+    <state width="1874" height="330" key="GridCell.Tab.0.right/0.28.1920.990@0.28.1920.990" timestamp="1584291714804" />
   </component>
 </project>

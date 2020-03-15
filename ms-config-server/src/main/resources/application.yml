@@ -4,5 +4,11 @@ spring:
       server:
         git:
           uri: https://github.com/thukabjj/microservices/
-          search-paths:
-            - "ms-config-properties/{application}/{profile}"
+          username: thukabjj
+          password:
+          label: master
+          searchPaths:
+            - 'ms-config-properties/{application}/{profile}'
+management:
+  security:
+    enabled: false
