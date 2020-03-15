@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="112ce47d-e2e7-4610-afdb-cbbcd27b8f86" name="Default Changelist" comment="" />
+    <list default="true" id="112ce47d-e2e7-4610-afdb-cbbcd27b8f86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ms-config-properties/ms-user/aplication.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/src/main/java/br/com/msuser/MsUserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/src/test/java/br/com/msuser/MsUserApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-discovery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-discovery/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,15 +28,46 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1ZAZ5aYSo7sv9CkR5rG9NuApVcI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MsConfigServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.msconfigserver.MsConfigServerApplication" />
+      <module name="ms-config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.msconfigserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MsConfigServerApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,5 +81,14 @@
       <updated>1584283676759</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584284694770">
+      <screen x="0" y="28" width="1920" height="990" />
+    </state>
+    <state x="418" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.990@0.28.1920.990" timestamp="1584284694770" />
   </component>
 </project>
