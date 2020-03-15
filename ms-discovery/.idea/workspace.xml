@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a188bed-f341-425f-bafb-411eef8c0b8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZAX4SllbDKd56d6xnWnjp9aj6k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ms-config-server" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MsDiscoveryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.msdiscovery.MsDiscoveryApplication" />
+      <module name="ms-discovery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.msdiscovery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MsDiscoveryApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a188bed-f341-425f-bafb-411eef8c0b8b" name="Default Changelist" comment="" />
+      <created>1584282680176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584282680176</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584283081871">
+      <screen x="0" y="28" width="1920" height="990" />
+    </state>
+    <state x="418" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.990@0.28.1920.990" timestamp="1584283081871" />
+    <state x="642" y="315" width="626" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584282799215">
+      <screen x="0" y="28" width="1920" height="990" />
+    </state>
+    <state x="642" y="315" width="626" height="386" key="#com.intellij.fileTypes.FileTypeChooser/0.28.1920.990@0.28.1920.990" timestamp="1584282799215" />
+    <state x="743" y="268" width="424" height="480" key="FileChooserDialogImpl" timestamp="1584284459045">
+      <screen x="0" y="28" width="1920" height="990" />
+    </state>
+    <state x="743" y="268" width="424" height="480" key="FileChooserDialogImpl/0.28.1920.990@0.28.1920.990" timestamp="1584284459045" />
+    <state width="1874" height="267" key="GridCell.Tab.0.bottom" timestamp="1584283998224">
+      <screen x="0" y="28" width="1920" height="990" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.bottom/0.28.1920.990@0.28.1920.990" timestamp="1584283998224" />
+    <state width="1874" height="267" key="GridCell.Tab.0.center" timestamp="1584283998223">
+      <screen x="0" y="28" width="1920" height="990" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.center/0.28.1920.990@0.28.1920.990" timestamp="1584283998223" />
+    <state width="1874" height="267" key="GridCell.Tab.0.left" timestamp="1584283998223">
+      <screen x="0" y="28" width="1920" height="990" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.left/0.28.1920.990@0.28.1920.990" timestamp="1584283998223" />
+    <state width="1874" height="267" key="GridCell.Tab.0.right" timestamp="1584283998224">
+      <screen x="0" y="28" width="1920" height="990" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.right/0.28.1920.990@0.28.1920.990" timestamp="1584283998224" />
+  </component>
+</project>
