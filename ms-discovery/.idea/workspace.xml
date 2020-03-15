@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a188bed-f341-425f-bafb-411eef8c0b8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ms-config-properties/ms-user/aplication.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-config-server/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-config-server/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-user/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-user/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-user/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-user/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-user/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-user/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-user/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-user/src/main/java/br/com/msuser/MsUserApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-user/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-user/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-user/src/test/java/br/com/msuser/MsUserApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-config-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5a188bed-f341-425f-bafb-411eef8c0b8b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
