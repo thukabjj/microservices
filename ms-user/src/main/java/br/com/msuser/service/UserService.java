@@ -13,7 +13,7 @@ import java.util.List;
 public class UserService {
 
     @Value("${spring.kafka.topic.userCreated}")
-    private static String USER_CREATED_TOPIC;
+    private String USER_CREATED_TOPIC;
 
     private Sender sender;
 
