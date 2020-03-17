@@ -3,12 +3,12 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/thukabjj/microservices/
+          uri: https://github.com/thukabjj/ms-config-properties/
           username: thukabjj
-          password: M0d0rus3r321@
+          password:
           label: master
           searchPaths:
-            - 'ms-config-properties/{application}/{profile}'
+            - '/{application}/{profile}'
 management:
   security:
     enabled: false
